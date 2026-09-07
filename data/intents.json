@@ -1,0 +1,42 @@
+{
+    "WARDROBE_UPLOAD": [
+        "Add this dress to my wardrobe",
+        "Upload this shirt to my wardrobe",
+        "Save this clothing item",
+        "Add this item to my closet",
+        "I want to store this dress in my wardrobe",
+        "Can you add this jacket to my wardrobe?"
+    ],
+
+    "STYLING_ADVICE": [
+        "What should I wear with my blazer?",
+        "How can I style this dress?",
+        "What goes well with these jeans?",
+        "Suggest an outfit for me",
+        "What can I pair with this jacket?",
+        "How should I style my denim jacket?",
+        "What would look good with this?",
+        "Help me choose an outfit"
+    ],
+
+    "PURCHASE": [
+        "Show me some white tops",
+        "I want to buy sneakers",
+        "Find me something under 2000",
+        "Can you recommend something to purchase?",
+        "I'm looking for a new dress",
+        "Show me products under my budget",
+        "Can you find me something nice to buy?",
+        "I need a new pair of shoes"
+    ],
+
+    "BOOKING": [
+        "I want to book a stylist",
+        "Can I talk to a fashion expert?",
+        "I'd like a colour consultation",
+        "Help me schedule a stylist appointment",
+        "Can I speak with someone about styling?",
+        "I want to consult a stylist",
+        "Can I book a fashion consultation?"
+    ]
+}
